@@ -99,6 +99,7 @@ GEM
       addressable
     currencies (0.4.2)
     daemons (1.2.3)
+    dalli (2.7.6)
     database_cleaner (1.5.1)
     diff-lcs (1.2.5)
     dynamic_form (1.1.4)
@@ -371,6 +372,7 @@ DEPENDENCIES
   coffee-rails
   coffee-script-source (~> 1.8.0)
   country_select
+  dalli
   database_cleaner
   dynamic_form
   email_reply_parser_ffcrm
