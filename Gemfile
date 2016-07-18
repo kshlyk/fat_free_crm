@@ -72,6 +72,7 @@ group :heroku do
   gem 'rails_12factor'
 end
 
+gem 'unicorn'
 gem 'dalli'
 gem 'sass-rails'
 gem 'coffee-rails'
