@@ -21,10 +21,10 @@ ru:
   tab_dashboard: Главная
   tab_tasks: Задания
   tab_campaigns: Маркетинг
-  tab_leads: Потенциальные клиенты
+  tab_leads: Лиды
   tab_accounts: Контрагенты
   tab_contacts: Контакты
-  tab_opportunities: Возможности
+  tab_opportunities: Сделки
   tab_team: Команда
   admin_tab_groups: Группы
   admin_tab_users: Пользователи
@@ -436,41 +436,41 @@ ru:
   # Views -> Leads.
   #----------------------------------------------------------------------------
   convert: Конверсия
-  convert_lead: Конвертировать потенциального клиента
+  convert_lead: Конвертировать лид
   convert_lead_permissions_intro: Права доступа к контакту будут скопированы от карточки
-    конвертируемого потенциального клиента. Позже вы сможете изменить права доступа.
-  convert_lead_text: В результате конверсии потенциального клиента &laquo;%{value}&raquo;,
+    конвертируемого лида. Позже вы сможете изменить права доступа.
+  convert_lead_text: В результате конверсии лида &laquo;%{value}&raquo;,
     будет создан новый контакт привязанный к существующему или вновь созданному клиенту.
-    Статус потенциального клиента автоматически изменится на конвертирован.
-  create_lead: Создать потенциального клиента
+    Статус лида автоматически изменится на конвертирован.
+  create_lead: Создать лид
   create_opp_for_contact: Вы можете создать возможность, привязанную к контакту &laquo;%{value}&raquo;,
     введя в следующих полях название возможности, стадию, предполагаему дату завершения,
     вероятность продажи, сумма сделки и предлагаемую скидку.
-  lead: Потенциальный клиент
-  lead_info_small: Контактная информация потенциального клиента
+  lead: Лид
+  lead_info_small: Контактная информация лида
   lead_permissions_intro_private: By default permissions will be copied from the campaign
     or set to private. You can change lead permissions later.
   lead_permissions_intro_public: By default permissions will be copied from the campaign
     or set to public. You can change lead permissions later.
   lead_permissions_intro_shared: By default permissions will be copied from the campaign
     or shared with the specified users. You can change lead permissions later.
-  lead_small: потенциальный клиент
-  lead_status_small: Статус потенциального клиента
-  lead_summary: Информация о потенциальном клиенте
-  lead_statuses: Статусы потенциальных клиентов
-  leads: Список потенциальных клиентов
-  leads_options: Свойства списка Потенциальных клиентов
-  leads_small: потенциальные клиенты
+  lead_small: лид
+  lead_status_small: Статус лида
+  lead_summary: Информация о лиде
+  lead_statuses: Статусы лидов
+  leads: Список лидов
+  leads_options: Свойства списка Лидов
+  leads_small: лиды
   none: Нет
   rating: Оценка
   reject: Закрыть
-  reject_lead_confirm: Вы действительно хотите закрыть эту карточку потенциального клиента?
-  save_lead: Сохранить Потенциального клиента
+  reject_lead_confirm: Вы действительно хотите закрыть эту карточку лида?
+  save_lead: Сохранить Лид
   source: Источник
   status: Статус
-  total_leads: Всего потенциальных клиентов
-  show_status_info_small: Показать статус этого потенциального клиента.
-  show_contact_info_small: Показать контактную информацию для этого потенциального клиента.
+  total_leads: Всего лидов
+  show_status_info_small: Показать статус этого лида.
+  show_contact_info_small: Показать контактную информацию для этого лида.
 
   # Views -> Opportunities.
   #----------------------------------------------------------------------------
@@ -480,7 +480,7 @@ ru:
   closed_ago_on: завершена %{time_ago} назад %{date}
   closes_today: завершение ожидается сегодня!
   closing_date: дата завершения %{value}
-  create_opportunity: Создать возможность
+  create_opportunity: Создать сделку
   currency: (грн.)
   days_late: Задержка
   days_left: Осталось дней
@@ -490,20 +490,20 @@ ru:
   from: из
   no_closing_date: дата завершения не указана
   no_discount: без скидки
-  opportunities: Возможности
-  opportunities_options: Свойства списка возможностей
-  opportunities_small: возможности
-  opportunity: Возможность
-  opportunity_small: возможность
-  opportunity_stages: Этапы возможностей
+  opportunities: Сделки
+  opportunities_options: Свойства списка сделок
+  opportunities_small: сделки
+  opportunity: Сделка
+  opportunity_small: сделка
+  opportunity_stages: Этапы сделок
   opportunity_summary: Краткая информация
   opportunity_summary_text: ! '%{amount} со скидкой %{discount} и вероятностью %{probability} процентов'
   past_due: просрочено, должно было быть завершено %{value} назад
   probability: Вероятность
   probability_number: и вероятностью %{value}
-  save_opportunity: Сохранить возможность
+  save_opportunity: Сохранить сделку
   stage: Стадия
-  total_opportunities: Всего возможностей
+  total_opportunities: Всего сделок
   weighted_amount: Взвешенная сумма
 
   # Views -> Tasks.
