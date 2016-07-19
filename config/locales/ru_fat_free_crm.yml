@@ -588,8 +588,8 @@ ru:
   action_create_comment: ! '- &quot;%{comment}&quot;'
   my_tasks: Мои задания
   no_task_records: У вас нет заданий.
-  my_opportunities: Мои возможности.
-  no_opportunity_records: У вас нет возможностей.
+  my_opportunities: Мои сделки.
+  no_opportunity_records: У вас нет сделок.
   my_accounts: Мои контрагенты
   no_account_records: У Вас нет контрагентов.
   not_showing_hidden_entities: Не отображается %{count} спрятано %{entity}.
