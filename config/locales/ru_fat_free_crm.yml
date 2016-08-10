@@ -576,7 +576,7 @@ ru:
   subject_contact: контакт
   subject_email: email
   subject_lead: наводку
-  subject_opportunity: перспективу
+  subject_opportunity: сделку
   subject_task: задание
   subject_user: пользователь
   tag_list: Метки
@@ -826,11 +826,11 @@ ru:
       many: ! '%{count} контактов'
       other: ! '%{count} контакта'
     opportunity:
-      zero: 0 перспектив
-      one: 1 перспектива
-      few: ! '%{count} перспективы'
-      many: ! '%{count} перспектив'
-      other: ! '%{count} перспектив'
+      zero: 0 сделок
+      one: 1 сделка
+      few: ! '%{count} сделки'
+      many: ! '%{count} сделок'
+      other: ! '%{count} сделок'
     lead:
       zero: 0 потенциальных клиентов
       one: 1 потенциальный клиент
