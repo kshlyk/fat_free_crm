@@ -32,7 +32,7 @@ set :repo_url, 'git@github.com:kshlyk/fat_free_crm.git'
 set :linked_files, %w(config/database.yml config/settings.yml config/secrets.yml config/unicorn.rb)
 
 # Default value for linked_dirs is []
- set :linked_dirs, %w{config/environments public/system}
+ set :linked_dirs, %w{config/environments public/system public/avatars}
 
 # Default value for default_env is {}
 # set :default_env, { path: "/opt/ruby/bin:$PATH" }
